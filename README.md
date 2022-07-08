@@ -8,5 +8,5 @@ Features:
 - Auto escaping of ``<``, ``>``, ``&``, ``'``, and ``"``
 
 
-### A simple test
+## A simple test
 Try [this](src/HTMLEngine/tests/Test.java)
